@@ -27,3 +27,9 @@ First assignment TEC
 9. Added a title corresponding to the webpage. 
 
 
+10. link to working site - https://enrique-rojas-villegas.github.io/Horiseon-HW1/
+
+11. Screenshot of working site: ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Solved_HW/Assets/images/ScreenShot_Horiseon.png)
+
+
+
